@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://tsanjint.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Pooh</title>
+      <link>https://tsanjint.github.io/pooh/</link>
+      <pubDate>Sun, 10 Sep 2023 13:11:49 +0000</pubDate>
+      
+      <guid>https://tsanjint.github.io/pooh/</guid>
+      <description>Another post!</description>
+    </item>
+    
+    <item>
       <title>Hello</title>
       <link>https://tsanjint.github.io/hello/</link>
       <pubDate>Sat, 09 Sep 2023 07:52:32 +0000</pubDate>
